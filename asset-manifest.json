@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-hr-app/static/css/main.c11e733e.css",
-    "main.js": "/my-hr-app/static/js/main.5cbff89d.js",
+    "main.css": "/my-hr-app/static/css/main.23682444.css",
+    "main.js": "/my-hr-app/static/js/main.07404857.js",
     "static/js/453.3de2d94e.chunk.js": "/my-hr-app/static/js/453.3de2d94e.chunk.js",
     "index.html": "/my-hr-app/index.html",
-    "main.c11e733e.css.map": "/my-hr-app/static/css/main.c11e733e.css.map",
-    "main.5cbff89d.js.map": "/my-hr-app/static/js/main.5cbff89d.js.map",
+    "main.23682444.css.map": "/my-hr-app/static/css/main.23682444.css.map",
+    "main.07404857.js.map": "/my-hr-app/static/js/main.07404857.js.map",
     "453.3de2d94e.chunk.js.map": "/my-hr-app/static/js/453.3de2d94e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c11e733e.css",
-    "static/js/main.5cbff89d.js"
+    "static/css/main.23682444.css",
+    "static/js/main.07404857.js"
   ]
 }
